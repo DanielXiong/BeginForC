@@ -1,0 +1,7 @@
+# VisualStudio
+.vs/
+Debug/
+Release/
+
+*.user
+*.filters
